@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../projeto-martins-tempe"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "projeto-martins-tempe"
+	}
+}
